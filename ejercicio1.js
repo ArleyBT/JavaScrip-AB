@@ -154,3 +154,5 @@ c. Si gana más del millón Descuento de pensión =6%.
     console.log("Salario del empleado: $" + salarioFinal.toFixed(2));
 
   */
+
+ 
